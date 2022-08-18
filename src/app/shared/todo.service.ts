@@ -18,18 +18,18 @@ export class TodoService {
     return this.todos
   }
   
-  getTodo(id:string){
+  getTodo(id:any){
     this.todos.find(t => t.id == id)
   }
   
   addTodo(todo: Todo) {
     this.todos.push(todo)
   }
-  updateTodo(id: string, updateTodoFields: Partial<Todo>){
+  updateTodo(id: any, updateTodoFields: Partial<Todo>){
     const todo:any = this.getTodo(id)
     Object.assign(todo, updateTodoFields)
   }
-  deleteTodo(id:string) {
+  deleteTodo(id:any) {
     const index = this.todos.findIndex(t =>t.id === id)
     if(index == -1) return
     
