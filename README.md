@@ -1,27 +1,6 @@
-# AngularPersonalDashboard
+![Screenshot 2022-08-19 203208](https://user-images.githubusercontent.com/97714023/185646187-50cf32f6-68eb-4f9c-97c6-114275c262e0.png)
+![Screenshot 2022-08-19 203612](https://user-images.githubusercontent.com/97714023/185646233-a5badb11-c46d-444f-9e36-78884ebb0ea5.png)
+![Screenshot 2022-08-19 203410](https://user-images.githubusercontent.com/97714023/185646250-b1520f8d-5
+![Screenshot 2022-08-19 203512](https://user-images.githubusercontent.com/97714023/185646259-b9c94ebb-4dfc-410e-ac0c-cd3a4f4b5283.png)
+9d8-4eea-8c75-d723a6611593.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
